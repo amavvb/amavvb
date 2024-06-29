@@ -1,0 +1,32 @@
+/*
+ * Honda platform - Inclusive - CSS : Fonts
+ *
+----------------------------------------------- */
+@font-face {
+  font-family: "ProximaNovaExCnSReg";
+  src: url("../../../fonts/Proxima_Nova_Extra_Condensed_Regular_Web/ProximaNovaExCn-RegWeb.eot");
+  src: url("../../../fonts/Proxima_Nova_Extra_Condensed_Regular_Web/ProximaNovaExCn-RegWeb.eot?iefix") format("embedded-opentype"), url("../../../fonts/Proxima_Nova_Extra_Condensed_Regular_Web/ProximaNovaExCn-RegWeb.woff") format("woff"), url("../../../fonts/Proxima_Nova_Extra_Condensed_Regular_Web/proximanovaexcn-regweb-webfont.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "ProximaNovaExCnLight";
+  src: url("../../../fonts/Proxima_Nova_Extra_Condensed_Light_Web/ProximaNovaExCn-LightWeb.eot");
+  src: url("../../../fonts/Proxima_Nova_Extra_Condensed_Light_Web/ProximaNovaExCn-LightWeb.eot?iefix") format("embedded-opentype"), url("../../../fonts/Proxima_Nova_Extra_Condensed_Light_Web/ProximaNovaExCn-LightWeb.woff") format("woff"), url("../../../fonts/Proxima_Nova_Extra_Condensed_Light_Web/proximanovaexcn-lightweb-webfont.ttf") format("truetype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "glyphs14";
+  src: url("../../../fonts/glyphs/14px-honda.eot");
+  src: url("../../../fonts/glyphs/14px-honda.eot?iefix") format("embedded-opentype"), url("../../../fonts/glyphs/14px-honda.woff") format("woff"), url("../../../fonts/glyphs/14px-honda.ttf") format("truetype"), url("../../../fonts/glyphs/14px-honda.svg#14px-honda") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "glyphs28";
+  src: url("../../../fonts/glyphs/28px-honda.eot");
+  src: url("../../../fonts/glyphs/28px-honda.eot?iefix") format("embedded-opentype"), url("../../../fonts/glyphs/28px-honda.woff") format("woff"), url("../../../fonts/glyphs/28px-honda.ttf") format("truetype"), url("../../../fonts/glyphs/28px-honda.svg#28px-honda") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
